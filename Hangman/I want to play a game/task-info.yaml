@@ -74,5 +74,5 @@ files:
     print("H A N G M A N", "The game will be available soon.", sep='\n')
   learner_created: true
 feedback_link: https://hyperskill.org/projects/69/stages/373/implement
-status: Unchecked
+status: Solved
 record: 2
