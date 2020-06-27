@@ -4,14 +4,9 @@ files:
   visible: true
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/8556
-status: Failed
+status: Solved
 feedback:
-  message: |
-    Failed. Runtime error
-
-    Traceback (most recent call last):
-      File "jailed_code", line 9, in <module>
-        print(add_book())
-    TypeError: add_book() missing 1 required keyword-only argument: 'title'
-  time: Sat, 27 Jun 2020 13:07:47 UTC
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/8556">JetBrains
+    Academy</a></html>
+  time: Sat, 27 Jun 2020 13:11:33 UTC
 record: -1
